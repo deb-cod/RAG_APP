@@ -1,0 +1,15 @@
+sentence-transformers
+langchain-community
+langchain
+langchain-text-splitters
+pypdf
+streamlit
+google-generativeai
+torch
+transformers
+numpy
+tqdm
+protobuf
+typing-extensions
+faiss-cpu
+python-dotenv
